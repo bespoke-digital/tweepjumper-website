@@ -221,6 +221,7 @@ body{
             width:460px;height:auto;
             margin:0 10px;
         }
+    #fgh{display:none;}
 }
 
 
@@ -269,4 +270,5 @@ body{
             width:300px;height:auto;
             margin:0 10px;
         }
+    #fgh{display:none;}
 }
